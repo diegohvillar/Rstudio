@@ -1,3 +1,3 @@
 #/bin/bash
 cd /tmp
-ls -lrt
+mkdir 1test
